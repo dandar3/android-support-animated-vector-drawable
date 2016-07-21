@@ -5,7 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android N (API 24) SDK Platform`
-- [dandar3/android-support-animated-vector-drawable](https://github.com/dandar3/android-support-animated-vector-drawable)
+- [dandar3/android-support-vector-drawable](https://github.com/dandar3/android-support-vector-drawable)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html

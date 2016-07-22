@@ -1,7 +1,7 @@
 ## android-support-animated-vector-drawable
 
 Eclipse library project based on:<br/>
-`ANDROID_SDK/extras/android/m2repository/com/android/support/animated-vector-drawable/24.1.0/animated-vector-drawable-24.1.0.aar`
+`ANDROID_SDK/extras/android/m2repository/com/android/support/animated-vector-drawable/24.1.1/animated-vector-drawable-24.1.1.aar`
 
 **Requires:**
 - `Android 7.0 (API 24) SDK Platform`
@@ -9,7 +9,6 @@ Eclipse library project based on:<br/>
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html
-- https://developer.android.com/topic/libraries/support-library/features.html
 
 **SVN Checkout:**
-- https://github.com/dandar3/android-support-animated-vector-drawable/tags/24.1.0
+- https://github.com/dandar3/android-support-animated-vector-drawable/tags/24.1.1

@@ -5,7 +5,7 @@ Eclipse library project based on:<br/>
 
 **Requires:**
 - `Android 7.1 (API 25) SDK Platform`
-- [dandar3/android-support-vector-drawable](https://github.com/dandar3/android-support-vector-drawable)
+- [dandar3/android-support-vector-drawable](https://github.com/dandar3/android-support-vector-drawable/tree/25.0.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#rev25-0-0

@@ -10,6 +10,7 @@ https://maven.google.com/com/android/support/animated-vector-drawable/26.0.1/ani
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions.html#26-0-1
+- https://developer.android.com/topic/libraries/support-library/packages.html#anim-vector
 
 **SVN Checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
